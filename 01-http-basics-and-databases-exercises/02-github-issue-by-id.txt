@@ -1,0 +1,6 @@
+GET /repos/Tech-Module-Jan-2018/test-repo/issues/1 HTTP/1.1
+Host: api.github.com
+Content-Type: application/json
+Authorization: Basic cGV0YXJwZXljaGV2Omhhbm5zR3Byb2ZmNTU4Mw==
+Cache-Control: no-cache
+Postman-Token: 62616a3b-5b55-4e00-81dd-b24d97867a07
