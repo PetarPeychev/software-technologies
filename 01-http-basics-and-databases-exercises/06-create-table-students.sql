@@ -1,0 +1,8 @@
+CREATE TABLE `students` (
+	`id` INT NOT NULL AUTO_INCREMENT,
+	`Name` VARCHAR(50) NOT NULL DEFAULT '0',
+	`Age` INT NULL DEFAULT '0',
+	PRIMARY KEY (`id`)
+)
+COLLATE='latin1_swedish_ci'
+;
