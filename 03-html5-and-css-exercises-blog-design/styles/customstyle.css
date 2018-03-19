@@ -1,0 +1,55 @@
+body {
+    background-color: dimgrey;
+    padding-top: 50px;
+}
+
+p {
+    color: dimgrey;
+}
+
+h1 {
+    color: dimgrey;
+    font-weight: bolder;
+}
+
+h2 {
+    color: dimgrey;
+    font-weight: bolder;
+}
+
+main .container {
+    background-color: white;
+}
+
+footer .container{
+    background-color: white;
+}
+
+article {
+    padding: 50px;
+}
+
+.navbar {
+    background-color: darkslateblue;
+}
+
+header .container {
+    background-color: darkslateblue;
+}
+
+.form-horizontal {
+    padding: 50px;
+}
+
+legend {
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+.navbar-brand {
+    border: 3px white solid;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-size: 1.5em;
+    text-transform: lowercase;
+}
